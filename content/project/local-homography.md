@@ -6,7 +6,7 @@ date = "2017-04-27"
 title = "Image Warping using Local Homography"
 
 # Project summary to display on homepage.
-summary = "Project explored various effects of employing locally varying homography warp in image stitching applications."
+summary = "Implementation of locally varying homography warp for image stitching applications."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
