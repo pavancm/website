@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "pavan@iisc.ac.in"
-  address = "Signal Processing Building, ECE Department, IISc Bangalore - 560085, Karnataka, India"
+  address = "Room No 2.25, Signal Processing Building, ECE Department, IISc Bangalore - 560085, Karnataka, India"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -163,22 +163,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "file-pdf-o"
     icon_pack = "fa"
-    link = "lalal"
+    link = "pdf/Pavan_CV.pdf"
 
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "http://in.linkedin.com/pub/pavan-chennagiri-m/80/338/758"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://github.com/pavancm"
 
   [[params.social]]
     icon = "facebook"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://www.facebook.com/pavancm.cm"
 
 
 # Navigation Links

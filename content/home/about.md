@@ -13,9 +13,7 @@ weight = 5
 [interests]
   interests = [
     "Image Processing",
-    "Computer Vision",
-    "Machine Learning"
-  ]
+    "Computer Vision"  ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]

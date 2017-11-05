@@ -14,14 +14,7 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+**Tutor** - I conducted weekly tutorial classes for the following topics:
 
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- ***Python Scripting*** - an introdutory course for python conducted under **Peer Mentoring Programme** organized by ECE Department, NITK during 2015-2016. 
+- ***Engineering Mathematics - II (MA111)*** for the students of first year B. Tech programme at NITK during Jan - May 2015.
