@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Pavan Chennagiri"
-copyright = "&copy; 2017 Pavan Chennagiri"
+copyright = "&copy; 2018 Pavan Chennagiri"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -39,16 +39,16 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Pavan Chennagiri"
-  role = "Master's Student"
+  role = "PhD Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Indian Institue of Science, Bangalore", url = "www.iisc.ac.in" } ]
+  organizations = [ { name = "The University of Texas at Austin", url = "www.utexas.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "pavan@iisc.ac.in"
-  address = "Room No 2.25, Signal Processing Building, ECE Department, IISc Bangalore - 560085, Karnataka, India"
+  email = "pavancm@utexas.edu"
+  address = "Education and Engineering Research, 2501 Speedway, Austin, Texas, USA 78712"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -158,7 +158,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:pavan@iisc.ac.in"
+    link = "mailto:pavancm@utexas.edu"
 
   [[params.social]]
     icon = "file-pdf-o"
