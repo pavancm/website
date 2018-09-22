@@ -27,6 +27,6 @@ image = ""
 caption = ""
 
 +++
-Standard image stitching applications employ global homography warp for generating a composite panorama. However when ther is mismatch of keypoints in the images, global homography results in ghosting artifacts. This project explored two variants of locally varying homography warp dubbed as APAP (as-projective-as-possible) and SPHP (shape-preserving-half-projective) and their effect on reducing the observed artifacts in stitched images.
+Standard image stitching applications employ global homography warp for generating a composite panorama. However when there is mismatch of keypoints in the images, global homography results in ghosting artifacts. This project explored two variants of locally varying homography warp dubbed as APAP (as-projective-as-possible) and SPHP (shape-preserving-half-projective) and their effect on reducing the observed artifacts in stitched images.
 
 This project was undertaken as part of Advanced Image Processing (E9 246) course during Jan-May 2017. Further details about the project and results are available {{% staticref "pdf/AIP_Final_Report.pdf" "newtab" %}}here{{% /staticref %}}.
