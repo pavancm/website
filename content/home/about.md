@@ -12,14 +12,20 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Image Processing",
-    "Computer Vision"  ]
+    "Image and Video Processing",
+    "Computer Vision",
+    "Machine Learning" ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "PhD in ECE"
+  institution = "The University of Texas at Austin"
+  year = "2018 - Present"
+
+[[education.courses]]
   course = "M. Tech in ECE"
   institution = "Indian Institute of Science, Bangalore"
-  year = "2016 - present"
+  year = "2016 - 2018"
 
 [[education.courses]]
   course = "B. Tech in ECE"
@@ -31,7 +37,7 @@ weight = 5
 
 # Biography
 
-I am a second year Master's (Research) student advised by [Dr. Rajiv Soundararajan](http://ece.iisc.ernet.in/~rajivs/#/) in the Department of [Electrical Communication Engineering](http://ece.iisc.ac.in/) at [IISc Bangalore](http://iisc.ac.in/). I graduated in 2016 from [NITK Surathkal](http://nitk.ac.in/) with a Bachelor's degree in Electronics and Communication Engineering, where I worked with [Dr.Deepu Vijayasenan](http://ece.nitk.ac.in/faculty/deepu-vijayasenan). In the summer of 2015, I was a research intern under [Dr.Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/new/people/faculty/prasantg/) at the Department of [Electrical Engineering](http://www.ee.iisc.ac.in),IISc Bangalore.
+I am a PhD student advised by [Dr. Alan Bovik](http://utw10503.utweb.utexas.edu/bovik.php) in the Department of [Electrical and Computer Engineering](http://www.ece.utexas.edu/) at [UT Austin](http://www.utexas.edu/). I completed my Masters (Research) in 2018, where I worked with [Dr. Rajiv Soundararajan](http://ece.iisc.ernet.in/~rajivs/#/) in the Department of [Electrical Communication Engineering](http://ece.iisc.ac.in/) at [IISc Bangalore](http://iisc.ac.in/). I primarily work in the overlapping areas of image processing, computer vision and machine learning with a strong focus on developing quality assessment techinques for various image and video applications.
 
 You can find my resume [here](pdf/Pavan_CV.pdf). 
 
