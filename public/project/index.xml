@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Pavan Chennagiri</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Pavan Chennagiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Pavan Chennagiri</copyright>
+    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistics of Optical Flow</title>
+      <link>/project/optical-flow/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/optical-flow/</guid>
+      <description>Video Quality Assessment (VQA) is an emerging area of research which aims at establishing objective quality evaluation methodologies for predicting video quality. Objective quality assessment algorithms have several applications like real-time monitoring of quality in networks, improve quality of experience (QoE) for users, evaluating compression algorithms etc. In this project only No Reference approach was considered where reference video or pristine video is not available during evaluation phase. Employing statistics of optical flow estimates to predict video quality was analyzed.</description>
+    </item>
+    
+    <item>
+      <title>Image Warping using Local Homography</title>
+      <link>/project/local-homography/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/local-homography/</guid>
+      <description>Standard image stitching applications employ global homography warp for generating a composite panorama. However when there is mismatch of keypoints in the images, global homography results in ghosting artifacts. This project explored two variants of locally varying homography warp dubbed as APAP (as-projective-as-possible) and SPHP (shape-preserving-half-projective) and their effect on reducing the observed artifacts in stitched images.
+This project was undertaken as part of Advanced Image Processing (E9 246) course during Jan-May 2017.</description>
+    </item>
+    
+    <item>
+      <title>Image Blending in Gradient Domain</title>
+      <link>/project/blending/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/blending/</guid>
+      <description>Blending represents fusing of two or more images to form a single composite image. Normal cut and paste termed as naive blending results in non smooth transition between the boundaries of images. Image blending in gradient domain simplifies to a Poisson partial differential equation. This project explored the effects of Poisson blending and it&amp;rsquo;s modified version (obtained by slightly modifying the constraint) on blended image quality. Since Poisson blending typically involves inversion of a sparse matrix, project also investigated performance of various sparse matrix inversion methods like Gauss-Seidel and Sparse LU Decomposition on quality of blended image.</description>
+    </item>
+    
+    <item>
+      <title>Automatic Image Colorization</title>
+      <link>/project/colorization/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/colorization/</guid>
+      <description>This project was an implementation of a deep colorization model using multi-layered perceptron model. Model was trained by extracting three types of features extracted from patches. Low level features were representative of low textured regions, mid level features for textured parts and high level features conveyed semantic information. The model was trained on images obtained from SUN database.
+This project was undertaken as part of Machine Learning for Signal Processing (E9 205) course during Aug-Dec 2016.</description>
+    </item>
+    
+  </channel>
+</rss>
