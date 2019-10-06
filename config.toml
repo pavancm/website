@@ -168,7 +168,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "http://in.linkedin.com/pub/pavan-chennagiri-m/80/338/758"
+    link = "https://www.linkedin.com/in/pavan-chennagiri-75833880"
 
   [[params.social]]
     icon = "github"
@@ -200,6 +200,11 @@ defaultContentLanguageInSubdir = false
   name = "Thesis"
   url = "#thesis"
   weight = 3
+
+[[menu.main]]
+  name = "Experience"
+  url = "#projects"
+  weight = 4
 
 [[menu.main]]
   name = "Projects"

@@ -37,7 +37,7 @@ weight = 5
 
 # Biography
 
-I am a PhD student advised by [Dr. Alan Bovik](http://utw10503.utweb.utexas.edu/bovik.php) in the Department of [Electrical and Computer Engineering](http://www.ece.utexas.edu/) at [UT Austin](http://www.utexas.edu/). I completed my Masters (Research) in 2018, where I worked with [Dr. Rajiv Soundararajan](http://ece.iisc.ernet.in/~rajivs/#/) in the Department of [Electrical Communication Engineering](http://ece.iisc.ac.in/) at [IISc Bangalore](http://iisc.ac.in/). I primarily work in the overlapping areas of image processing, computer vision and machine learning with a strong focus on developing quality assessment techniques for various image and video applications.
+I am a PhD student advised by [Dr. Alan Bovik](http://utw10503.utweb.utexas.edu/bovik.php) in the Department of [Electrical and Computer Engineering](http://www.ece.utexas.edu/) at [UT Austin](http://www.utexas.edu/). I completed my Masters (Research) in 2018, where I worked with [Dr. Rajiv Soundararajan](https://ece.iisc.ac.in/~rajivs/#/) in the Department of [Electrical Communication Engineering](http://ece.iisc.ac.in/) at [IISc Bangalore](http://iisc.ac.in/). I primarily work in the overlapping areas of image processing, computer vision and machine learning with a strong focus on developing quality assessment techniques for various image and video applications.
 
 You can find my resume [here](pdf/Pavan_CV.pdf). 
 
