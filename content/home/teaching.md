@@ -16,5 +16,5 @@ weight = 60
 
 **Tutor** - I conducted weekly tutorial classes for the following topics:
 
-- ***Python Scripting*** - an introdutory course for python conducted under **Peer Mentoring Programme** organized by ECE Department, NITK during 2015-2016. 
+- ***Python Scripting*** - an introductory course for python conducted under **Peer Mentoring Programme** organized by ECE Department, NITK during 2015-2016. 
 - ***Engineering Mathematics - II (MA111)*** for the students of first year B. Tech programme at NITK during Jan - May 2015.
