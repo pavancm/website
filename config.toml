@@ -166,9 +166,9 @@ defaultContentLanguageInSubdir = false
     link = "pdf/Pavan_CV.pdf"
 
   [[params.social]]
-    icon = "linkedin"
+    icon = "google-scholar"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/pavan-chennagiri-75833880"
+    link = "https://scholar.google.com/citations?view_op=list_works&hl=en&user=YqnTJrEAAAAJ"
 
   [[params.social]]
     icon = "github"
@@ -176,9 +176,14 @@ defaultContentLanguageInSubdir = false
     link = "https://github.com/pavancm"
 
   [[params.social]]
-    icon = "facebook"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "https://www.facebook.com/pavancm.cm"
+    link = "https://www.linkedin.com/in/pavan-chennagiri-75833880"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/cm_pavan"
 
 
 # Navigation Links
