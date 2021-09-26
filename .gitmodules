@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://githu.bom/pavancm/pavancm.github.io.git
+	url = https://github.com/pavancm/pavancm.github.io.git
 	branch = master
