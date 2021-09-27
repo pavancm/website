@@ -14,7 +14,15 @@ weight = 45
 
 +++
 
-## **Google**, *Mountain View, CA* $\hspace{95pt}$ Summer '19
+## **Samsung Research America**, *Plano, TX* $\hspace{95pt}$ Summer 2021
+*Research Intern, Mobile Processor Innovation (MPI) Lab*<br/>
+Mentors : [Dr. Hamid Sheikh](https://www.linkedin.com/in/hamid-sheikh-3350018), [Dr. Seok-Jun Lee](https://www.linkedin.com/in/seok-jun-lee-355916b)
+
+***Synthetic Data for Computer Vision Applications***<br/> 
+
+- Worked on deep learning based models trained on synthetic data for image enhancement and computer vision applications
+
+## **Google**, *Mountain View, CA* $\hspace{95pt}$ Summer 2019
 *Research Intern, Media Algorithms Team, YouTube*<br/>
 Mentor : [Dr. Mohammad Izadi](https://ai.google/research/people/MohammadIzadi/)
 
