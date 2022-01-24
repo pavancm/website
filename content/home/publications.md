@@ -5,7 +5,7 @@
 date = 2016-04-20
 draft = false
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 widget = "publications"
 
@@ -13,14 +13,14 @@ widget = "publications"
 weight = 10
 
 # Number of publications to list.
-count = 10
+count = 20
 
 # List format.
 #   0 = Simple
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
+list_format = 0
 
 # Filter by publication type.
 # -1: Any
