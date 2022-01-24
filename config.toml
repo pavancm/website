@@ -1,6 +1,6 @@
 baseurl = "https://pavancm.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Pavan Chennagiri"
-copyright = "&copy; 2019 Pavan Chennagiri"
+copyright = "&copy; 2022 Pavan Chennagiri"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
